@@ -6,9 +6,7 @@
         Gestion des livres et emprunts
      """,
 
-    'description': """
-        Gestion des livres et emprunts
-    """,
+    'description': "Gestion des livres et emprunts",
 
     "author": "Eugène Delage",
     "website": "http://www.e3k.co",
